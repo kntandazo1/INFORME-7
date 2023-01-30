@@ -4,7 +4,7 @@
 
 #### NOMBRE: Karen Tandazo
 
-### NRC: 10067
+#### NRC: 10067
 
 #### 1. OBJETIVOS:
 
@@ -27,8 +27,6 @@
 
 
 ##### 4. VÍDEO:
-
-
 
 
 ##### 5. CONCLUSIONES:
