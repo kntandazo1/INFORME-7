@@ -4,16 +4,16 @@
 
 #### NOMBRE: Karen Tandazo
 
-#### NRC: 10067
+### NRC: 10067
 
-##### 1. OBJETIVOS:
+#### 1. OBJETIVOS:
 
-OBJETIVOS GENERALES:
-
-
+##### OBJETIVOS GENERALES:
 
 
-OBJETIVOS ESPECÍFICOS:
+
+
+##### OBJETIVOS ESPECÍFICOS:
 
 
 ##### 2. MARCO TEÓRICO:
@@ -21,9 +21,9 @@ OBJETIVOS ESPECÍFICOS:
 
 ##### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
 
---------------------------------------------CAPÍTULO 13------------------- ----------------
+##### --------------------------------------------CAPÍTULO 13------------------- ----------------
 
---------------------------------------------CAPÍTULO 14------------------- ----------------
+##### --------------------------------------------CAPÍTULO 14------------------- ----------------
 
 
 ##### 4. VÍDEO:
