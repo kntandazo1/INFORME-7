@@ -91,13 +91,21 @@
 
 ![image](https://user-images.githubusercontent.com/117767335/217402252-cde79a4e-fe2f-48b2-8819-7fd552168a2a.png)
 
+##### SECCIÓN 14–4 Carga del devanado secundario
+
 ![image](https://user-images.githubusercontent.com/117767335/217402385-d3a34c02-943f-4dff-ab14-31d2b31fcec8.png)
 
+##### SECCIÓN 14–5 Carga reflejada
+
 ![image](https://user-images.githubusercontent.com/117767335/217402725-8569c79d-05c9-4b53-9969-3368d3da0054.png)
+
+##### SECCIÓN 14–6 Igualación de impedancia
 
 ![image](https://user-images.githubusercontent.com/117767335/217403075-19260648-c614-43e8-9e8c-a87ce2d0b4c3.png)
 
 ![image](https://user-images.githubusercontent.com/117767335/217403280-32fd644f-a5a6-46fc-b09b-6b7296e8857a.png)
+
+##### SECCIÓN 14–7 Características de un transformador no ideal
 
 ![image](https://user-images.githubusercontent.com/117767335/217403723-b41e98b7-fdfd-46a4-aed6-3692aef2fc4a.png)
 
@@ -105,9 +113,13 @@
 
 ![image](https://user-images.githubusercontent.com/117767335/217404126-a8f9e73b-a43b-43e9-9f98-c2acd8fe17e1.png)
 
+##### SECCIÓN 14–8 Transformadores con tomas y devanados múltiples
+
 ![image](https://user-images.githubusercontent.com/117767335/217404265-62477a98-77e1-413f-8ed3-deabcc82439b.png)
 
 ![image](https://user-images.githubusercontent.com/117767335/217404432-ce7f51ba-51f3-4394-a3aa-3fa3d769d9f1.png)
+
+##### SECCIÓN 14–9 Localización de fallas
 
 ![image](https://user-images.githubusercontent.com/117767335/217404557-174d60ba-00ac-4679-b5a4-0e8c657b5f67.png)
 
