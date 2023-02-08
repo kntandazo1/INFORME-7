@@ -71,6 +71,13 @@
 
 ##### --------------------------------------------CAPÍTULO 14------------------- ----------------
 
+##### SECCIÓN 14–1 Inductancia mutua
+
+![image](https://user-images.githubusercontent.com/117767335/217400918-df77a932-bddc-40be-94c1-b23bac106474.png)
+
+![image](https://user-images.githubusercontent.com/117767335/217400972-f8385c41-c9a4-4289-a96b-646290e4ec37.png)
+
+##### 
 
 ##### 4. VÍDEO:
 
