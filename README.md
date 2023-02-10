@@ -10,9 +10,13 @@
 
 ##### OBJETIVOS GENERALES:
 
+Identificar los diversos tipos de inductores que existen, y su aplicación en transformadores, comprendiendo los conceptos de cada uno.
 
 ##### OBJETIVOS ESPECÍFICOS:
 
+Analizar el comportamiento y las características que se dan a partir de la de combinación de Inductores en serie en CA.
+
+Determinar que tipo de transformadores que se usan para realizar: la distribucion, la subtransmision y la transmisión de corriente eléctrica.
 
 ##### 2. MARCO TEÓRICO:
 
@@ -134,9 +138,15 @@
 
 ##### 4. VÍDEO:
 
+https://youtu.be/L-LzpueRTqI
 
 ##### 5. CONCLUSIONES:
 
+En conclusión la caída de potencial en los inductores va a tomar el mismo valor, si se compara con el total, se encuentra el voltaje aplicado a una agrupación de 
+inductores que se encuentran conectados en serie, donde se va a tener que esto va a ser igual a la suma de la caída de potencia en cada uno de los inductores más la 
+fuerza contra el electromotriz autoinducida.
+
+Se concluye que los transformadores de potencial son los usados dentro de la transmisión, puesto que dichos voltajes predeterminados son altos, y  cuando se tiene bajos voltajes, dichos transformadores van a trabajara para sistemas trifásicos.
 
 ##### 6. BIBLIOGRAFÍA:
 
